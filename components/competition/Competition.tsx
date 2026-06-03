@@ -17,16 +17,6 @@ export default function Competition() {
     },
 
     {
-      title: "IIT BHU",
-      position: "🥈 2nd Place",
-      event: "Micromouse Competition",
-      year: "2026",
-      certificate: "/competitions/iit-bhu.jpg",
-      description:
-        "Achieved 2nd Place at IIT BHU by demonstrating efficient maze exploration, precise PID control and reliable autonomous navigation.",
-    },
-
-    {
       title: "IIT Guwahati",
       position: "🎯 7th Place",
       event: "Micromouse Competition",
