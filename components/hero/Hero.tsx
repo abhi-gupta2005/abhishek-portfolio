@@ -96,7 +96,7 @@ export default function Hero() {
           <div className="mt-10 flex flex-wrap gap-4">
 
             <a
-              href="/Abhishek_Resume-1.pdf"
+              href="public/Abhishek_Resume-1.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="
